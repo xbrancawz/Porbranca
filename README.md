@@ -18,17 +18,17 @@ Textos literários de minha autoria.
 
 
 
+
+
+
 <div class="section" id="leituras">
   <h2>Indicações de Leitura</h2>
   <p>Se você, assim como eu, adora se perder em boas histórias, aqui estão algumas das minhas indicações literárias. Cada uma delas me tocou de alguma maneira e, talvez, você também se encante por elas.</p>
   <ul>
-    <li><strong>"A Escolhida do Capô" de @websnu</strong> - Uma história envolvente, com personagens profundos e muito mistério.</li>
-    <li><strong>"Nas Sombras do Amor" de @waslua</strong> - Uma trama de amor e intensidade, que não sai da minha mente.</li>
-    <li><strong>"Refém de uma Ilusão" de @xz.brancaw</strong> - Uma fanfic com muita emoção e reviravoltas.</li>
+    <li><strong>"A Escolhida do Capô"</strong> - @websnu — Uma história que nunca consegui superar. Intensa e cheia de personalidade.</li>
+    <li><strong>"Atração Perigosa"</strong> - @websadri — Uma trama envolvente com tensão, segredos e muita química entre os personagens.</li>
+    <li><strong>"Nas Sombras do Amor"</strong> - @RafaelaPerver — Um romance dark que me fez refletir e sentir cada palavra. Marcante do início ao fim.</li>
   </ul>
   <p>Essas são apenas algumas das leituras que marcaram meu caminho. Continue acompanhando para mais recomendações!</p>
 </div>
-
-
-
 
