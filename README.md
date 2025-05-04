@@ -32,3 +32,41 @@ Textos literários de minha autoria.
   <p>Essas são apenas algumas das leituras que marcaram meu caminho. Continue acompanhando para mais recomendações!</p>
 </div>
 
+
+
+
+
+
+
+
+
+<!-- SOBRE MIM -->
+<div class="section" id="sobre">
+  <h2>Sobre Mim</h2>
+  <p>Me chamo Branca, mas talvez você só me conheça por palavras. Aqui, sou a garota desconhecida, escrevendo nas sombras com alma exposta. Cada texto é uma fresta do que não consigo dizer em voz alta — e é por isso que escrevo. Seja bem-vindo ao meu mundo feito de silêncio e sentimento.</p>
+</div>
+
+<!-- REDES SOCIAIS -->
+<div class="section" id="redes">
+  <h2>Redes Sociais</h2>
+  <p>Quer se perder comigo em outros cantos?</p>
+  <ul style="list-style: none; padding-left: 0;">
+    <li>
+      <a href="https://www.instagram.com/seu_usuario" target="_blank" style="color: #ccc; text-decoration: none;">
+        <img src="https://cdn-icons-png.flaticon.com/24/2111/2111463.png" alt="Instagram" style="vertical-align: middle; margin-right: 8px;">
+        Instagram
+      </a>
+    </li>
+    <li>
+      <a href="https://www.wattpad.com/user/seu_usuario" target="_blank" style="color: #ccc; text-decoration: none;">
+        <img src="https://cdn-icons-png.flaticon.com/24/5968/5968663.png" alt="Wattpad" style="vertical-align: middle; margin-right: 8px;">
+        Wattpad
+      </a>
+    </li>
+  </ul>
+</div>
+
+<!-- RODAPÉ -->
+<footer style="text-align: center; margin-top: 40px; padding: 20px 0; border-top: 1px solid #444; color: #888;">
+  <p>&copy; 2025 Por Branca — Textos literários e reflexões. Todos os direitos reservados.</p>
+</footer>
