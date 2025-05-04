@@ -9,6 +9,12 @@ Textos literários de minha autoria.
 </div>
 
 
+  <p> tenho nome, mas talvez você só me conheça por palavras. Aqui, sou a garota desconhecida, escrevendo nas sombras com alma exposta. Cada texto é uma fresta do que não consigo dizer em voz alta — e é por isso que escrevo. Seja bem-vindo ao meu mundo feito de silêncio e sentimento.</p>
+
+
+
+
+
 
 <div class="section" id="reflexoes">
   <h2>Reflexões e Pensamentos</h2>
@@ -36,31 +42,14 @@ Textos literários de minha autoria.
 
 
 
-
-
-
-
-<!-- SOBRE MIM -->
-<div class="section" id="sobre">
-  <h2>Sobre Mim</h2>
-  <p>Me chamo Branca, mas talvez você só me conheça por palavras. Aqui, sou a garota desconhecida, escrevendo nas sombras com alma exposta. Cada texto é uma fresta do que não consigo dizer em voz alta — e é por isso que escrevo. Seja bem-vindo ao meu mundo feito de silêncio e sentimento.</p>
-</div>
-
-<!-- REDES SOCIAIS -->
+!-- REDE SOCIAL - WATTPAD -->
 <div class="section" id="redes">
-  <h2>Redes Sociais</h2>
-  <p>Quer se perder comigo em outros cantos?</p>
+  <h2>Onde me encontrar</h2>
   <ul style="list-style: none; padding-left: 0;">
     <li>
-      <a href="https://www.instagram.com/seu_usuario" target="_blank" style="color: #ccc; text-decoration: none;">
-        <img src="https://cdn-icons-png.flaticon.com/24/2111/2111463.png" alt="Instagram" style="vertical-align: middle; margin-right: 8px;">
-        Instagram
-      </a>
-    </li>
-    <li>
-      <a href="https://www.wattpad.com/user/seu_usuario" target="_blank" style="color: #ccc; text-decoration: none;">
+      <a href="https://www.wattpad.com/user/xzbrancaw" target="_blank" style="color: #ccc; text-decoration: none;">
         <img src="https://cdn-icons-png.flaticon.com/24/5968/5968663.png" alt="Wattpad" style="vertical-align: middle; margin-right: 8px;">
-        Wattpad
+        Wattpad - @xzbrancaw
       </a>
     </li>
   </ul>
